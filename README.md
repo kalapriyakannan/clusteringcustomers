@@ -22,6 +22,8 @@ These utilities were later used to cluster realtime anonimised custmer data atta
 - To cluster a few specified group of columns - Call the function [cluster_pair_list](#cluster_pair_list)
 - To cluster all possible combinations of columns - Call the function [all_clusters](#all_clusters)
 
+---
+
 ## List of Function
 
 ### import_data
